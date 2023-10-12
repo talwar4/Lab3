@@ -24,7 +24,7 @@ boston_cocktails <- readr::read_csv('data/boston_cocktails.csv')
 ### Exercise 1
 
 ```{r}
-# Load the required libraries #
+# Load the libraries #
 library(magrittr)   # the pipe
 library(tidyverse)  # for data wrangling + visualization
 library(tidymodels) # for modeling
